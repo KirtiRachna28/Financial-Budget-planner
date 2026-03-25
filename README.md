@@ -59,7 +59,7 @@ Used for:
 * 🥧 Pie Chart → Category breakdown
 * 📈 Line Chart → Expense trends
 
-*▁▃▅▇ Area Chart - Budget Vs Actual Comparison
+▁▃▅▇ Area Chart - Budget Vs Actual Comparison
 
 ---
 
