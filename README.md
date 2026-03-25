@@ -58,7 +58,7 @@ Used for:
 * 📊 Column Chart → Income vs Expense
 * 🥧 Pie Chart → Category breakdown
 * 📈 Line Chart → Expense trends
-*     Area Chart - Budget Vs Actual Comparison
+*▁▃▅▇ Area Chart - Budget Vs Actual Comparison
 
 ---
 
@@ -76,17 +76,20 @@ Used for:
 * Total Income
 * Total Expense
 * Total Savings
+* Budget Variance
 
 ### 🔹 Visualizations
 
 * Monthly Income vs Expense
 * Category-wise Expense Distribution
 * Expense Trend Chart
+* Budget Vs Actual Chart
 
 ### 🔹 Filters
 
 * Slicers for:
 
+  * Year
   * Month
   * Category
   * Payment Method
@@ -101,10 +104,10 @@ Used for:
 =Total Income - Total Expense
 ```
 
-### 🔹 Running Balance
+### 🔹 Balance
 
 ```excel
-=Previous Balance + Income - Expense
+= Income - Expense
 ```
 
 ---
@@ -133,7 +136,6 @@ Used for:
 
 ## 🚀 Future Improvements
 
-* Add budget vs actual comparison
 * Automate reports using macros
 * Add yearly performance summary
 
