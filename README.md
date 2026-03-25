@@ -58,6 +58,7 @@ Used for:
 * 📊 Column Chart → Income vs Expense
 * 🥧 Pie Chart → Category breakdown
 * 📈 Line Chart → Expense trends
+
 *▁▃▅▇ Area Chart - Budget Vs Actual Comparison
 
 ---
