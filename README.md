@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Financial Budget Planner** is an Excel-based project designed to help users track income, expenses, and savings efficiently. It provides meaningful insights through data analysis and interactive dashboards using Excel features like Pivot Tables, charts, and conditional formatting.
+The **Financial Budget Planner** is an Excel-based project designed to help users track income, expenses, and savings efficiently. It provides meaningful insights through data analysis and interactive dashboards using Excel features like Pivot Tables, charts,slicers, and conditional formatting.
 
 ---
 
@@ -34,11 +34,11 @@ The **Financial Budget Planner** is an Excel-based project designed to help user
 
 ### 🔹 SUMIFS
 
-Used to calculate totals based on conditions
+Used to calculate actual based on conditions
 Example:
 
 ```excel
-=SUMIFS(Income_Range, Category_Range, "Salary")
+=SUMIFS(Financial_Data!D:D,Financial_Data!B:B,[@Category])
 ```
 
 ---
@@ -58,12 +58,12 @@ Used for:
 * 📊 Column Chart → Income vs Expense
 * 🥧 Pie Chart → Category breakdown
 * 📈 Line Chart → Expense trends
+*     Area Chart - Budget Vs Actual Comparison
 
 ---
 
 ### 🔹 Conditional Formatting
 
-* Highlights overspending
 * Tracks savings visually
 * Budget indicators (Red = Over budget, Green = Under budget)
 
